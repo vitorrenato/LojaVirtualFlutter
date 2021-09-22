@@ -1,4 +1,4 @@
-# shop
+# Loja Virtual Flutter
 
 A new Flutter project.
 
